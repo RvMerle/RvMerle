@@ -1,6 +1,10 @@
-### Hi there 👋
+# Hey! 👋
+
+I'm Robin, a Econometrics & Economics student at Erasmus University Rotterdam, The Netherlands.
+If you want to get in touch with me, you can find me on [LinkedIn](https://www.linkedin.com/in/robin-van-merle/).
 
 <!--
+### Hi there 
 **RvMerle/RvMerle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
