@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I'm Robin, a Econometrics & Economics student at Erasmus University Rotterdam, The Netherlands.
+I'm Robin, an Econometrics & Economics student at Erasmus University Rotterdam, The Netherlands.
 If you want to get in touch with me, you can find me on [LinkedIn](https://www.linkedin.com/in/robin-van-merle/).
 
 <!--
