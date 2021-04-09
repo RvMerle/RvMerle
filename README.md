@@ -2,8 +2,8 @@
 
 I'm Robin, an Econometrics & Economics student at Erasmus University Rotterdam, The Netherlands. Here are some cool projects I've been working on recently:
 
-- Effortless NLP using pre-trained Hugging Face Pipelines, a blog-post on Medium
-- [Money Printer Goes Brrr](Presentation.ipynb), a project on the intersection of sentiment analysis & finance for the [Turing Machine & Deep Learning](https://www.tstudents.nl/) course
+- [Effortless NLP using pre-trained Hugging Face pipelines](https://towardsdatascience.com/effortless-nlp-using-pre-trained-hugging-face-pipelines-with-just-3-lines-of-code-a4788d95754f), a Medium article published in Towards Data Science.
+- [Money Printer Goes Brrr](Presentation.ipynb), a project on the intersection of sentiment analysis & finance for the [Turing Machine & Deep Learning](https://www.tstudents.nl/) course.
 
 If you want to get in touch with me, you can find me on [LinkedIn](https://www.linkedin.com/in/robin-van-merle/)!
 
