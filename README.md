@@ -2,6 +2,7 @@
 
 I'm Robin, an Econometrics & Economics student at Erasmus University Rotterdam, The Netherlands. Here are some cool projects I've been working on recently:
 
+- A [heatmap](Heatmap/README.md) from GPS data of my runs.
 - [Effortless NLP using pre-trained Hugging Face pipelines](https://towardsdatascience.com/effortless-nlp-using-pre-trained-hugging-face-pipelines-with-just-3-lines-of-code-a4788d95754f), a Medium article published in Towards Data Science.
 - [Money Printer Goes Brrr](Presentation.ipynb), a project on the intersection of sentiment analysis & finance for the [Turing Machine & Deep Learning](https://www.tstudents.nl/) course.
 
